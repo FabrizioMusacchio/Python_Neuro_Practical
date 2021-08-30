@@ -1,0 +1,41 @@
+/.log
+/*.xls
+/*.xlsx
+/Data/Igor_1/ overview.pdf
+/Data/Igor_1/ overview thresholded.pdf
+/Data/Igor_1/ overview thresholded and spikes.pdf
+/02.5 Python pipeline for IGOR recordings.py
+/img/MultiPhotonExcitation.jpg
+/img/MultiPhotonExcitation-Fig10-doi10.1186slash1475-925X-5-36-clipping.JPEG
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/other.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/Python Course.iml
+/.idea/vcs.xml
+/.idea/.gitignore
+/.ipynb_checkpoints
+/02.3 Python pipeline for a statistical analysis.ipynb
+/02.4 Python pipeline for a basic time series analysis.ipynb
+/02.4 Python pipeline for a basic time series analysis.pdf
+/02.5 Python pipeline for IGOR recordings.ipynb
+/02.5 Python pipeline for IGOR recordings.py
+/02.5 Python pipeline for IGOR recordings (blinded).pdf
+/my_signal_plot.pdf
+/Data/Igor_3_do_not_synch
+/Data/Igor_2/ overview.pdf
+/barplot.pdf
+/barplot with data.pdf
+/boxlot.pdf
+/boxplot with data.pdf
+/markdown_test.md
+/exportToHTML/markdown_test.md.html
+/read_fiji_data.py
+/ROI_plot_all.pdf
+/ROI_plot_all.png
+/ROI_plot_selected.pdf
+/ROI_plot_selected.png
+/violinplot.pdf
+/violinplot with data.pdf
+/.idea/Python Course Neuro-Practical.iml
