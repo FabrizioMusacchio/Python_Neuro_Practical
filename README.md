@@ -3,7 +3,7 @@ This is the course material for the [advanced _Python_ for Data Scientists cours
 ](https://www.fabriziomusacchio.com/teaching/python_course_neuropractical/). 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FabrizioMusacchio/Python_Neuro_Practical/HEAD)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FabrizioMusacchio/Python_Neuro_Practical/) [![Generic badge](https://img.shields.io/badge/website-link-<COLOR>.svg)](https://www.fabriziomusacchio.com/teaching/python_course_neuropractical)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FabrizioMusacchio/Python_Neuro_Practical/HEAD)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FabrizioMusacchio/Python_Neuro_Practical/) [![Website](https://img.shields.io/badge/website-link-<COLOR>.svg)](https://www.fabriziomusacchio.com/teaching/python_course_neuropractical) [![License](https://img.shields.io/badge/license-CC%20BY%e2%80%93NC%e2%80%93SA%204.0-orange.svg)](https://github.com/FabrizioMusacchio/Python_Neuro_Practical/blob/master/LICENSE.md)
 
 
 
@@ -25,7 +25,9 @@ Please visit the [course website](https://www.fabriziomusacchio.com/teaching/pyt
 
 
 ## License (Summary)
-This course material is under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License. You are free to:
+This course material is under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
+
+You are free to:
 
 * **Share** — copy and redistribute the material in any medium or format
 * **Adapt** — remix, transform, and build upon the material
