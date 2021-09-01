@@ -10,7 +10,7 @@ This is the course material for the [advanced _Python_ for Data Scientists cours
 ## Chapters
 * Tutorial 1: **Statistical data analysis with Pandas and Pingouin** (to be uploaded)
 * Tutorial 2: [**Basic time series analysis**](https://github.com/FabrizioMusacchio/Python_Neuro_Practical/blob/master/02%20Basic%20time%20series%20analysis.ipynb)
-* * Tutorial 3: **Data I/O - An extended guide** (to be uploaded)
+* Tutorial 3: **Data I/O - An extended guide** (to be uploaded)
 * Tutorial 4: [**Analyzing patch clamp recordings**](https://github.com/FabrizioMusacchio/Python_Neuro_Practical/blob/master/04%20Analyzing%20patch%20clamp%20recordings.ipynb)
 * Tutorial 5: [**Using Fourier transform for time series deconstruction**](https://github.com/FabrizioMusacchio/Python_Neuro_Practical/blob/master/05%20Using%20Fourier%20transform%20for%20time%20series%20deconstruction%20.ipynb)
 * Tutorial 6: **Wavelet Analysis** (to be uploaded)
