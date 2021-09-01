@@ -1,4 +1,4 @@
-# Python Neuro-Practical 
+# Python "Neuro-Practical" Course Material 
 This is the course material for the [advanced _Python_ for Data Scientists course
 ](https://www.fabriziomusacchio.com/teaching/python_course_neuropractical/). 
 
