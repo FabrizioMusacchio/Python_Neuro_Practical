@@ -27,8 +27,6 @@ Please visit the [course website](https://www.fabriziomusacchio.com/teaching/pyt
 
 
 ## License
-This course material is under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC BY-NC-SA 4.0)](https://github.com/FabrizioMusacchio/Python_Neuro_Practical/blob/master/LICENSE.md). 
-
-[How to give attribution](https://creativecommons.org/use-remix/attribution/) (example):
+This course material is under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC BY-NC-SA 4.0)](https://github.com/FabrizioMusacchio/Python_Neuro_Practical/blob/master/LICENSE.md). [How to give attribution](https://creativecommons.org/use-remix/attribution/) (example):
 
 "[Python Neuro-Practical Course](https://www.fabriziomusacchio.com/teaching/python_course/)" by [Fabrizio Musacchio](https://www.fabriziomusacchio.com/) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
