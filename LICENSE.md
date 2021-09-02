@@ -2,11 +2,6 @@
 
 Source of this license text is the [Creative Commons website](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-<br>
-
-<center>
-<i class="fab fa-creative-commons"></i> <i class="fab fa-creative-commons-by"></i> <i class="fab fa-creative-commons-nc"></i> <i class="fab fa-creative-commons-sa"></i>
-</center>
 
 
 ## Human-readable summary

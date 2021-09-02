@@ -26,18 +26,9 @@ Please visit the [course website](https://www.fabriziomusacchio.com/teaching/pyt
 
 
 
-## License (Summary)
-This course material is under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
+## License
+This course material is under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC BY-NC-SA 4.0)](https://github.com/FabrizioMusacchio/Python_Neuro_Practical/blob/master/LICENSE.md). 
 
-You are free to:
+[How to give attribution](https://creativecommons.org/use-remix/attribution/) (example):
 
-* **Share** — copy and redistribute the material in any medium or format
-* **Adapt** — remix, transform, and build upon the material
-
-under the following terms:
-
-* **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-* **NonCommercial** — You may not use the material for commercial purposes.
-* **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-
-This is a human-readable summary of (and not a substitute for) the [license](https://github.com/FabrizioMusacchio/Python_Neuro_Practical/blob/master/LICENSE.md) for the material within this repository.
+"[Python Neuro-Practical Course](https://www.fabriziomusacchio.com/teaching/python_course/)" by [Fabrizio Musacchio](https://www.fabriziomusacchio.com/) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
