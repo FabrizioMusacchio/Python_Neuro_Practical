@@ -15,7 +15,7 @@ I will add new tutorials to this collection from time to time.
 ## Chapters
 * Tutorial 1: [**Statistical data analysis with Pandas and Pingouin**](https://github.com/FabrizioMusacchio/Python_Neuro_Practical/blob/master/01%20Statistical%20data%20analysis%20with%20Pandas%20and%20Pingouin%20(extended).ipynb)
 * Tutorial 2: [**Basic time series analysis**](https://github.com/FabrizioMusacchio/Python_Neuro_Practical/blob/master/02%20Basic%20time%20series%20analysis.ipynb)
-* Tutorial 3: **Data I/O - An extended guide** (to be uploaded)
+* Tutorial 3: [**Data I/O - An extended guide**](https://www.fabriziomusacchio.com/teaching/python_cheat_sheets/python_data_io) (a cheat sheet on my website)
 * Tutorial 4: [**Analyzing patch clamp recordings**](https://github.com/FabrizioMusacchio/Python_Neuro_Practical/blob/master/04%20Analyzing%20patch%20clamp%20recordings.ipynb)
 * Tutorial 5: [**Using Fourier transform for time series deconstruction**](https://github.com/FabrizioMusacchio/Python_Neuro_Practical/blob/master/05%20Using%20Fourier%20transform%20for%20time%20series%20deconstruction%20.ipynb)
 * Tutorial 6: **Wavelet Analysis** (to be uploaded)
