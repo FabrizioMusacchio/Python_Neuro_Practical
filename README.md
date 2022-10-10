@@ -17,7 +17,7 @@ I will add new tutorials to this collection from time to time.
 * Tutorial 2: [**Basic time series analysis**](https://github.com/FabrizioMusacchio/Python_Neuro_Practical/blob/master/02%20Basic%20time%20series%20analysis.ipynb)
 * Tutorial 3: [**Data I/O - An extended guide**](https://www.fabriziomusacchio.com/teaching/python_cheat_sheets/python_data_io) (a cheat sheet on my website)
 * Tutorial 4: [**Analyzing patch clamp recordings**](https://github.com/FabrizioMusacchio/Python_Neuro_Practical/blob/master/04%20Analyzing%20patch%20clamp%20recordings.ipynb)
-* Tutorial 5: [**Using Fourier transform for time series decomposition**](https://github.com/FabrizioMusacchio/Python_Neuro_Practical/blob/master/05%20Using%20Fourier%20transform%20for%20time%20series%20decomposition%20.ipynb)
+* Tutorial 5: [**Using Fourier transform for time series decomposition**](https://github.com/FabrizioMusacchio/Python_Neuro_Practical/blob/master/05%20Using%20Fourier%20transform%20for%20time%20series%20decomposition.ipynb)
 * Tutorial 6: [**Improving matplotlib plots**](https://github.com/FabrizioMusacchio/Python_Neuro_Practical/blob/master/06%20Making%20matplotlib%20plots%20more%20appealing.ipynb)
 * [**Further Readings**](https://www.fabriziomusacchio.com/teaching/python_course_neuropractical/90_further_readings) (⟶ course website)
 
