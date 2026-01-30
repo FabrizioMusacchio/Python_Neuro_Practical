@@ -1,6 +1,5 @@
 # Python "Neuro-Practical" Course Material 
-This is the course material for the advanced _Python_ course [Python: Neuro-Practical
-](https://www.fabriziomusacchio.com/teaching/python_course_neuropractical/). 
+This is the course material for the advanced _Python_ course [Python: Neuro-Practical](https://www.fabriziomusacchio.com/teaching/python_course_neuropractical/). 
 
 The course is a collection of short tutorials tailored to practical Data Science problems in Neuroscience. The aim of these short tutorials is to demonstrate, how to think about problem solution in _Python_ and how to find strategies and individual solutions for own specific problems beyond the scope of the tutorials. 
 
