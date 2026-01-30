@@ -29,6 +29,14 @@ Please visit the [course website](https://www.fabriziomusacchio.com/teaching/pyt
 Please visit the [course website](https://www.fabriziomusacchio.com/teaching/python_course_neuropractical/#current-announcements) for further details.
 
 
+## Installation
+For reproducibility, install the following conda environment:
+
+```bash
+conda create -n python_neuro_practical python=3.12 -y
+conda activate python_neuro_practical
+conda install -y pandas numpy scipy matplotlib seaborn pingouin statsmodels scikit-learn ipython ipykernel
+```
 
 ## License
 This course material is under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC BY-NC-SA 4.0)](https://github.com/FabrizioMusacchio/Python_Neuro_Practical/blob/master/LICENSE.md). [How to give attribution](https://creativecommons.org/use-remix/attribution/) (example):
