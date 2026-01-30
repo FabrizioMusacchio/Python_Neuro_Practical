@@ -1,3 +1,4 @@
+# %% IMPORTS
 import numpy as np
 import matplotlib
 matplotlib.use('TkAgg')   # ⟵ Erforderlich in PyCharm!!  Qt5Agg  TkAgg
@@ -88,3 +89,4 @@ plt.xlabel('frequency [Hz]')
 plt.ylabel('Linear power spectrum [V RMS]')
 plt.title('Power spectrum (plt.psd())')
 plt.show()
+# %%
