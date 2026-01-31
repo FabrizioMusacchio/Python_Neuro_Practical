@@ -1,3 +1,4 @@
+.gitignore
 /.log
 /*.xls
 /*.xlsx
@@ -71,3 +72,4 @@
 /.idea/markdown.xml
 /Nicing-up our plots.ipynb
 /Nicing-up statistical plots.ipynb
+*.DS_Store
