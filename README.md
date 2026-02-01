@@ -1,4 +1,4 @@
-https://www.fabriziomusacchio.com
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FabrizioMusacchio/Python_Neuro_Practical/HEAD)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FabrizioMusacchio/Python_Neuro_Practical/) [![Website](https://img.shields.io/badge/website-link-<COLOR>.svg)](https://www.fabriziomusacchio.com/teaching/python_course_neuropractical) [![License](https://img.shields.io/badge/license-CC%20BY%e2%80%93NC%e2%80%93SA%204.0-orange.svg)](https://github.com/FabrizioMusacchio/Python_Neuro_Practical/blob/master/LICENSE.md)
 
 # Python "Neuro-Practical" Course Material 
 This is the course material for the advanced _Python_ course [Python: Neuro-Practical](https://www.fabriziomusacchio.com/teaching/python_course_neuropractical/). 
