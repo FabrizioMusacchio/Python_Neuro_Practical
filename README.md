@@ -1,13 +1,11 @@
+https://www.fabriziomusacchio.com
+
 # Python "Neuro-Practical" Course Material 
 This is the course material for the advanced _Python_ course [Python: Neuro-Practical](https://www.fabriziomusacchio.com/teaching/python_course_neuropractical/). 
 
 The course is a collection of short tutorials tailored to practical Data Science problems in Neuroscience. The aim of these short tutorials is to demonstrate, how to think about problem solution in _Python_ and how to find strategies and individual solutions for own specific problems beyond the scope of the tutorials. 
 
 I will add new tutorials to this collection from time to time.
-
-
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FabrizioMusacchio/Python_Neuro_Practical/HEAD)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FabrizioMusacchio/Python_Neuro_Practical/) [![Website](https://img.shields.io/badge/website-link-<COLOR>.svg)](https://www.fabriziomusacchio.com/teaching/python_course_neuropractical) [![License](https://img.shields.io/badge/license-CC%20BY%e2%80%93NC%e2%80%93SA%204.0-orange.svg)](https://github.com/FabrizioMusacchio/Python_Neuro_Practical/blob/master/LICENSE.md)
 
 
 
@@ -20,7 +18,9 @@ I will add new tutorials to this collection from time to time.
 * Tutorial 6: [**Improving matplotlib plots**](https://github.com/FabrizioMusacchio/Python_Neuro_Practical/blob/master/06%20Making%20matplotlib%20plots%20more%20appealing.ipynb)
 * [**Further Readings**](https://www.fabriziomusacchio.com/teaching/python_course_neuropractical/90_further_readings) (⟶ course website)
 
-New tutorials will be added from time to time.
+New tutorials will be added from time to time:
+
+* [Linear mixed models in practice: when ANCOVA is enough and when you really need random effects](https://www.fabriziomusacchio.com/blog/2026-01-31-linear_mixed_models/)
 
 ## Course requirements
 Please visit the [course website](https://www.fabriziomusacchio.com/teaching/python_course_neuropractical#current-announcements/#course-requirements) for further details.
